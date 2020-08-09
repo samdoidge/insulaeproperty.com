@@ -34,7 +34,7 @@ const Header = ({ siteTitle }) => (
       what you want and deploy.
     </p> */}
     {/* <Button>Get Early Access</Button> */}
-    <div style={{ margin: 60, maxWidth: `500px`, position: "relative" }}>
+    <div style={{ marginTop: 60, maxWidth: `500px`, position: "relative" }}>
 
         <img
           src={logoImage}
