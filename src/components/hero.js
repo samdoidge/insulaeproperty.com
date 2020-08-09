@@ -3,8 +3,7 @@ import PropTypes from "prop-types"
 
 import Button from "../components/button"
 import headerImage from "../images/header.png"
-import MockupContent from "./image"
-import mockupFrame from "../images/mockup-frame.png"
+
 import logoImage from "../images/logo.png"
 import SectionHeader from "./section-header"
 

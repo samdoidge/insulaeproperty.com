@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Insulae Property`,
-    description: `Providing high specification rental properties in some of the most in-demand locations within the United Kingdom.`,
+    description: `Providing high specification rental properties in the most in-demand locations within the United Kingdom.`,
     author: `@samdoidge`,
     siteUrl: `https://gatsby-starter-landing-page.netlify.com`,
   },
